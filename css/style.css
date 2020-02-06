@@ -781,6 +781,9 @@ footer {
   .footer-end {
     display: block;
   }
+  .realizations .col {
+    min-width: 100%;
+  }
 }
 @media only screen and (max-width: 470px) {
   .top-contact a i {
