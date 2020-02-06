@@ -38,6 +38,7 @@ ul {
   border-bottom: 0.0625rem solid #ebebeb;
   height: 2.875rem;
   padding: 0.75rem 0;
+  overflow: hidden;
 }
 .top-contact {
   position: absolute;
