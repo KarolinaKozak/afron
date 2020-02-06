@@ -250,7 +250,7 @@ ul {
   flex-wrap: wrap;
   align-items: stretch;
   align-content: stretch;
-  height: 200%;
+  height: 100%;
 }
 .tile {
   width: 50%;
@@ -260,7 +260,6 @@ ul {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  display: block;
 }
 .img-container {
   display: block;
@@ -274,6 +273,9 @@ ul {
   bottom: 0;
   left: 0;
   margin: auto;
+}
+.tile-text {
+  color: #4c4c4c;
 }
 .specialty {
   background: url("../images/bg.jpg") center left no-repeat;
